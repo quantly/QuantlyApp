@@ -1,1 +1,0 @@
-# QuantlyApp_UI
